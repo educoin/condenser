@@ -1,11 +1,11 @@
 <span id="disable_router_nav_history_direction_check"></span>
-## Welcome to Steemit!
+## Welcome to EFTG (European Financial Transparancy Gateway) project!
 
-This page is full of information to help you learn about the platform and become a successful Steemian. You can return to this page at any time by clicking on the "Welcome" link in the main menu. There is a table of contents below to help you navigate the page.
+This page is full of information to help you learn about the platform and become a successful user of EFTG portal. You can return to this page at any time by clicking on the "Welcome" link in the main menu. There is a table of contents below to help you navigate the page.
 
 Included on the page is a "To Do List" with recommended steps to get started with your account, and a "Quick Start Guide" with information on how the platform works. 
 
-Below that is a section of "Helpful Posts from Steemit Users", which contains a collection of posts from users in the community that are helpful for new users getting started. 
+Below that is a section of "Helpful Posts from EFTG Users", which contains a collection of posts from users in the community that are helpful for new users getting started. 
 
 Below that is a list of recommended users to follow, a collection of other resources including the <a href="/faq.html">FAQ Page</a> and [Steem 'Bluepaper'](https://steem.io/steem-bluepaper.pdf), as well as information on where to find help. 
 
